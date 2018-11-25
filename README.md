@@ -1,0 +1,5 @@
+# SEMÁFORO_SMART
+( CIRCLE Team ) - HACKATHON UPE – CIDADES INTELIGENTES E HUMANAS / Conceito SEMAFORO_SMART  
+  
+Copyright (c) 2018 Serttel  
+Desenvolvido por Lucas Glasner Regis e Circle Team do HACKATHON UPE – CIDADES INTELIGENTES E HUMANAS.
